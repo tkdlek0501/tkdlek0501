@@ -1,8 +1,9 @@
 👋 I'm HyunJune Kim
 <b>Skills :</b><br>
 
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-#E34F26?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 [![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/tkdlek0501/tkdlek0501/blob/main/README.md)
 
