@@ -1,6 +1,11 @@
-<b>Skills :</b><br><br>
+👋 I'm HyunJune Kim
+<b>Skills :</b><br>
+
+<img alt="Html" src ="https://img.shields.io/badge/HTML5.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+
 
 [![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/tkdlek0501/tkdlek0501/blob/main/README.md)
+
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tkdlek0501) -->
