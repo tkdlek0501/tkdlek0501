@@ -1,5 +1,5 @@
 Skills :
-[![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/tkdlek0501/tkdlek0501/blob/main/README.md) [![JS]
+[![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/tkdlek0501/tkdlek0501/blob/main/README.md)
 
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tkdlek0501) -->
