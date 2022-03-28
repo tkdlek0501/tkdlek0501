@@ -16,12 +16,14 @@
   <img alt="Sourcetree" src ="https://img.shields.io/badge/Sourcetree-0052CC?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>
 </div>
 
+<b>Stats :</b><br>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tkdlek0501) -->
 
 ![tkdlek0501's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdlek0501&show_icons=true&theme=highcontrast)
   
 <!-- [![tkdlek0501's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/tkdlek0501) -->
 
+<b>Languages :</b><br>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,HTML,CSS,&%20Basic&theme=dracula"></a>
 </p>
@@ -30,7 +32,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkdlek0501&theme=onedark"></a>
 </p> -->
   
-  
+<b>Streak :</b><br>  
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkdlek0501&">
 </p>
