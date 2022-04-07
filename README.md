@@ -26,7 +26,7 @@
 
 <b>Languages :</b><br>
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,HTML,&%20Basic&theme=highcontrast"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,&%20Basic&theme=highcontrast"></a>
 </p>
 
 <!-- <p>
