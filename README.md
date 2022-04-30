@@ -28,10 +28,6 @@
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,&%20Basic&theme=highcontrast"></a>
 </p> -->
-
-<!-- <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkdlek0501&theme=onedark"></a>
-</p> -->
   
 <b>Streak :</b><br>  
 <p>
