@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=header&text=HyunJune%20Kim&fontSize=50)
+  
 👋 I'm HyunJune Kim<br><br>
 <b>Skills :</b><br>
 
@@ -33,3 +39,8 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkdlek0501&">
 </p>
+  
+  ![footer](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=footer)
+</div>  
+  
+
