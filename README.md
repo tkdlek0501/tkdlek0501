@@ -36,10 +36,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,&%20Basic&theme=highcontrast"></a>
 </p> -->
   
-<!-- <b>Streak :</b><br>  
+<b>Streak :</b><br>  
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkdlek0501&">
-</p> -->
+</p>
   
   ![footer](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=footer)
 </div>  
