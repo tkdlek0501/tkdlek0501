@@ -5,7 +5,7 @@
   ![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=header&text=HyunJune%20Kim&fontSize=50)
   
 👋 I'm HyunJune Kim<br><br>
-<b style="display:none;">Skills :</b><br>
+<b>Skills :</b><br>
 
 <div style="display:flex">
   <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
