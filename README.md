@@ -5,7 +5,7 @@
   ![header](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=header&text=HyunJune%20Kim&fontSize=50)
   
 👋 I'm HyunJune Kim<br><br>
-<b>Skills :</b><br>
+<!-- <b>Skills :</b><br> -->
 
 <div style="display:flex">
   <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -24,7 +24,7 @@
   
 </div>
 
-<b>Stats :</b><br>
+<!-- <b>Stats :</b><br> -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tkdlek0501) -->
 
 <!-- ![tkdlek0501's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdlek0501&show_icons=true&theme=highcontrast) -->
