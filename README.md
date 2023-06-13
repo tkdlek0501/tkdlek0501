@@ -7,14 +7,14 @@
 👋 I'm HyunJune Kim<br><br>
 <!-- <b>Skills :</b><br> -->
 
-<div style="display:flex">
+<!-- <div style="display:flex">
   <img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="Css" src ="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=CSS5&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD?&style=for-the-badge&logo=jQuery&logoColor=white"/>
-<div>
+<div> -->
   
-<div>
+<!-- <div>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Spring Boot" src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
   <img alt="SpringSecurity" src ="https://img.shields.io/badge/SpringSecurity-0052CC?&style=for-the-badge&logo=Spring Security&logoColor=white"/>
@@ -22,7 +22,7 @@
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F?&style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
   
-</div>
+</div> -->
 
 <!-- <b>Stats :</b><br> -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=tkdlek0501) -->
@@ -36,7 +36,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkdlek0501&layout=compact&hide=Visual,&%20Basic&theme=highcontrast"></a>
 </p> -->
   
-<b>Streak :</b><br>  
+<!-- <b>Streak :</b><br> -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkdlek0501&">
 </p>
