@@ -40,6 +40,11 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkdlek0501&">
 </p>
+
+<b>Notion :</b>
+<p><a href="https://www.notion.so/khj0501/HJ-s-Activity-7fb0436318f64a69aeeff9db1b7c50ec?pvs=4">HJ’s Activity</a></p>
+
+
   
   ![footer](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=footer)
 </div>  
