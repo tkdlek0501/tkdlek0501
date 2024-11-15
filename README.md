@@ -51,7 +51,6 @@
   height="300"
 />
 </a>
-
   
   ![footer](https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=100&section=footer)
 </div>  
